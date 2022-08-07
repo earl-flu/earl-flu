@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Earl!
 - 👀 I’m interested in learning web development specially on front-end and react.
-- 🌱 I’m actively practicing my front-end skills and learniing more about react.
+- 🌱 I’m actively practicing my front-end skills and learning more about react.
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: Gmail: earlsarmiento.dev@gmail.com
 
